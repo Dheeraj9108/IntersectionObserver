@@ -1,0 +1,17 @@
+.card{
+    height: 50px;
+    border: 2px solid green;
+    width: 200px;
+    border-radius: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+.cardContainer{
+    margin: 150px;
+    border: 2px solid red;
+    width: fit-content;
+    height: 500px;
+    overflow: auto;
+
+}
